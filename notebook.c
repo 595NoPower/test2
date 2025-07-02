@@ -7,6 +7,7 @@ int main()
     printf("test2-2");
 
     printf("test2-dev/a-1");
+    printf("test2-dev/a-2");
 
     return 0;
 }
